@@ -11,6 +11,7 @@
 - Improved responsive layout for secondary actions in `Banner` ([#3093](https://github.com/Shopify/polaris-react/pull/3093))
 - Added an optional `videoProgress` prop to `VideoThumbnail` for video progress indicator [#3057](https://github.com/Shopify/polaris-react/pull/3057)
 - Added an optional `videoProgress` prop to `VideoThumbnail` for video progress indicator ([#3057](https://github.com/Shopify/polaris-react/pull/3057))
+- Added an optional `videoProgress` prop to `VideoThumbnail` for video progress indicator [#3057](https://github.com/Shopify/polaris-react/pull/3057)
 
 ### Bug fixes
 
